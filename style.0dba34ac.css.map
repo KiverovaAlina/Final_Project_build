@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACI,YAAa,CACb,sBACJ,CAEA,eACI,UAAW,CACX,WACJ","file":"style.0dba34ac.css","sourceRoot":"..","sourcesContent":["#container{\r\n    display: flex;\r\n    justify-content: center;\r\n}\r\n\r\n#container >img{\r\n    margin: 8px;\r\n    width: 300px;\r\n}"]}

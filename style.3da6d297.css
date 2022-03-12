@@ -1,0 +1,11 @@
+#container{
+    display: flex;
+    justify-content: center;
+}
+
+#container >img{
+    margin: 8px;
+    width: 300px;
+}
+
+/*# sourceMappingURL=/style.3da6d297.css.map */
